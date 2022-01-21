@@ -1,0 +1,88 @@
+{
+    "animals":
+    [
+        {
+            "subjectName": "Vince",
+            "subjectPictureFilePath": "Pictures/Bear",
+            "subjectTypeStr": "Animal"
+        },
+        {
+            "subjectName": "Alonzo",
+            "subjectPictureFilePath": "Pictures/Bunny",
+            "subjectTypeStr": "Animal"
+        },
+        {
+            "subjectName": "Caileigh",
+            "subjectPictureFilePath": "Pictures/Cat",
+            "subjectTypeStr": "Animal"
+        },
+        {
+            "subjectName": "Leopold",
+            "subjectPictureFilePath": "Pictures/Owl",
+            "subjectTypeStr": "Animal"
+        },
+        {
+            "subjectName": "Kingsley",
+            "subjectPictureFilePath": "Pictures/Sheep",
+            "subjectTypeStr": "Animal"
+        }
+    ],
+    "humans":
+    [
+        {
+            "subjectName": "Amy",
+            "subjectPictureFilePath": "Pictures/Girl1",
+            "subjectTypeStr": "Human"
+        },
+        {
+            "subjectName": "Jessica",
+            "subjectPictureFilePath": "Pictures/Girl2",
+            "subjectTypeStr": "Human"
+        },
+        {
+            "subjectName": "Steve",
+            "subjectPictureFilePath": "Pictures/Boy1",
+            "subjectTypeStr": "Human"
+        },
+        {
+            "subjectName": "Bobby",
+            "subjectPictureFilePath": "Pictures/Boy2",
+            "subjectTypeStr": "Human"
+        },
+        {
+            "subjectName": "Malcolm",
+            "subjectPictureFilePath": "Pictures/Boy3",
+            "subjectTypeStr": "Human"
+        },
+        {
+            "subjectName": "Brian",
+            "subjectPictureFilePath": "Pictures/Boy4",
+            "subjectTypeStr": "Human"
+        },
+        {
+            "subjectName": "Ben",
+            "subjectPictureFilePath": "Pictures/Boy5",
+            "subjectTypeStr": "Human"
+        },
+        {
+            "subjectName": "Alexander",
+            "subjectPictureFilePath": "Pictures/Face1",
+            "subjectTypeStr": "Human"
+        },
+        {
+            "subjectName": "Rosalina",
+            "subjectPictureFilePath": "Pictures/Face2",
+            "subjectTypeStr": "Human"
+        },
+        {
+            "subjectName": "Wilburh",
+            "subjectPictureFilePath": "Pictures/Baby1",
+            "subjectTypeStr": "Human"
+        },
+        {
+            "subjectName": "Carolina",
+            "subjectPictureFilePath": "Pictures/Baby2",
+            "subjectTypeStr": "Human"
+        }
+    ]
+}
